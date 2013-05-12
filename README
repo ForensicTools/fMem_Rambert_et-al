@@ -1,0 +1,1 @@
+FMEM is a kernel module that allows users to read the physical memory on a Linux machine. The major difference between FMEM and other similar kernel modules is that FMEM doesn’t have any limitations. FMEM-PFE is a front end for FMEM written in Perl that provides an alternative means of accessing the /dev/fmem device other than through the terminal.
